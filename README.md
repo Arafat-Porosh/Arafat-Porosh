@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Yasin Arafat Porosh. I’m currently working on App development with kotlin.
 
 <!--
 **Arafat-Porosh/Arafat-Porosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
